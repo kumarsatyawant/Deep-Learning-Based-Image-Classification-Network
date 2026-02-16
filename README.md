@@ -11,13 +11,13 @@ We were able to achieve best test accuracy of 92.85% for VGG19 network.
 
 
 <p align="center">
-  <img src="figures/1_Best_Accuracy_Curve.jpg" width="500" alt="Training and Testing Accuracies" /><br/>
+  <img src="figures/1_Best_Accuracy_Curve.jpg" alt="Training and Testing Accuracies" /><br/>
   Fig. 1. Plot for Training and Testing Accuracies.
 </p>
 
 
 <p align="center">
-  <img src="figures/2_Best_Accuracy_Loss_Curve.jpg" width="500" alt="Training and Testing Losses" /><br/>
+  <img src="figures/2_Best_Accuracy_Loss_Curve.jpg" alt="Training and Testing Losses" /><br/>
   Fig. 2. Plot for Training and Testing Losses.
 </p>
 
